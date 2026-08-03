@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213972114544",
+    "project_id": "tropelon-edu",
+    "storage_bucket": "tropelon-edu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213972114544:android:f0718d07ed3a625a7328b5",
+        "android_client_info": {
+          "package_name": "com.tropelon.shikkha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_tx3q80kcLt-ame-TkUQkj3cJ6VyUbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
